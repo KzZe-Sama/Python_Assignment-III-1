@@ -1,0 +1,7 @@
+**Welcome to IT Academy App**
+-----------------------------
+Please Select One of the option above
+1   Enquiry and Enrollment
+2   Withdraw
+3   Display Information
+4   Departure
